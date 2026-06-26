@@ -10,7 +10,6 @@ const English = require('./src/locales/en.json')
 const convertFormats = ['give-command', 'loot-table', 'item-modifier', 'recipe-output']
 
 export default defineConfig({
-	base: '/misode.encumbered/',
 	server: {
 		port: 3000,
 	},
