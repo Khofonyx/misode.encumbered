@@ -226,6 +226,18 @@
       "wiki": "https://minecraft.wiki/w/Loot_table"
     },
     {
+      "id": "encumbered:boost_items",
+      "url": "encumbered/boost_items",
+      "dependency": "encumbered",
+      "path": "data/encumbered/data_maps/item/boost_items.json"
+    },
+    {
+      "id": "encumbered:item_weights",
+      "url": "encumbered/item_weights",
+      "dependency": "encumbered",
+      "path": "data/encumbered/data_maps/item/item_weights.json"
+    },
+    {
       "id": "predicate",
       "url": "predicate",
       "wiki": "https://minecraft.wiki/w/Predicate"
